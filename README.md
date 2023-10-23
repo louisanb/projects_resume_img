@@ -1,4 +1,4 @@
-# resume_img
+# Project_resume_img
 Image of personal projects which can by viewed by cliking the links below. 
 
 [solidworks bolts pic](https://s3.amazonaws.com/louisanresume.com/public/images/resume/bolts.jpg)
